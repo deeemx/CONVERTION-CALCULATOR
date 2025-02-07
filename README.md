@@ -1,3 +1,4 @@
 # CONVERTION-CALCULATOR
 ALL IN ONE CONVERTION CALCULATOR FOR CURRENCY
 JS TOP 30 MAJOR CURRENCYS AND THEIR EQUATIONS
+im working on this, its simple equations but if statements are annoying
